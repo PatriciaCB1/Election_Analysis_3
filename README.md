@@ -27,5 +27,15 @@ The analysis of the election shows that
 - The winner of the election was Diane DeGette with 73.8% of the vote and 272,892 votes
 
 ## Challenge Overview
+As an additional ask, the employee (our client) tasked us with writing code to include the following in our analysis:
+
+1) Determine the voter turnout for each county.
+2) Determine the percentage of votes from each county out of the total count
+3) Determine the county with the highest turnout
+
+We were asked to ensure the code printed the desired results in Terminal and also printed and saved to a text file "election_analysis".
+
+When the coding was finalized the results printed as expected in Terminal (though we edited the code to add some cleaner labels and spacing):
+
 
 ## Challenge Summary
