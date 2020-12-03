@@ -62,7 +62,9 @@ In addition - the text file populated as request and results were able to be sav
 
 The ultimate code we created to perform this analysis was as follows:
 
-
+![Election_Analysis_Code_1](https://github.com/PatriciaCB1/Election_Analysis_3/blob/main/Election_Analysis_Code_1.png)
+![Election_Analysis_Code_2](https://github.com/PatriciaCB1/Election_Analysis_3/blob/main/Election_Analysis_Code_2.png)
+![Election_Analysis_Code_3](https://github.com/PatriciaCB1/Election_Analysis_3/blob/main/Election_Analysis_Code_3.png)
 
 ## Challenge Summary
 
