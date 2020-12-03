@@ -37,6 +37,6 @@ We were asked to ensure the code printed the desired results in Terminal and als
 
 When the coding was finalized the results printed as expected in Terminal (though we edited the code to add some cleaner labels and spacing):
 
-![Election_Analysis_Terminal_Output]()
+![Election_Analysis_Terminal_Output](https://github.com/PatriciaCB1/Election_Analysis_3/blob/main/Election_Analysis_Terminal.png)
 
 ## Challenge Summary
