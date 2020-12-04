@@ -50,6 +50,11 @@ The analysis of the election shows that:
   - Raymon Anthony Doane received 3.1% of the vote and 11,606 votes
 - The winner of the election was Diane DeGette with 73.8% of the vote and 272,892 votes
 
+Regarding the ask pertaning to counties specifically, the results were as follows:
+  - Jefferson:  10.5% of all votes (38,855 votes)
+  - Denver:  82.8% of all votes (306,055 votes)
+  - Arapahoe: 6.7% of all votes (24,801 votes)
+
 We were asked to ensure the code printed the desired results in Terminal and also printed and saved to a text file "election_analysis".
 
 When the coding was finalized the results printed as expected in Terminal (though we edited the code to add some cleaner labels and spacing):
